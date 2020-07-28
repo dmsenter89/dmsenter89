@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I’m a PhD candidate in applied mathematics at the University of North Carolina at Chapel Hill working in the Miller lab. I have broad interests in mathematical biology including fluid dynamics, biomechanics, and scientific computing. Feel free to check out my [GitHub pages](https://dmsenter89.github.io/) site.
+
+
+
+
 <!--
 **dmsenter89/dmsenter89** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
