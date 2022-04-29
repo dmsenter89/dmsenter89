@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m a PhD candidate in applied mathematics at the University of North Carolina at Chapel Hill working in the Miller lab. I have broad interests in mathematical biology including fluid dynamics, biomechanics, and scientific computing. Feel free to check out my [GitHub pages](https://dmsenter89.github.io/) site.
+I’m an Analytics Software Tester at SAS Institute, Inc. I have PhD in mathematics from the University of North Carolina at Chapel Hill. I have broad interests in scientific computing and data analysis. Feel free to check out my [GitHub pages](https://dmsenter89.github.io/) site.
 
 
 
