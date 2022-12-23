@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I’m an Analytics Software Tester at SAS Institute, Inc. I have a PhD in mathematics from the University of North Carolina at Chapel Hill where I worked on computational fluid dynamics as part of the [Miller Lab Group](https://sites.google.com/site/swimflypump/home), now at UA. I have broad interests in scientific computing and data analysis. Feel free to check out my [GitHub pages](https://dmsenter89.github.io/) site.
+I’m an Research Statistician Developer at SAS Institute, Inc. I have a PhD in mathematics from the University of North Carolina at Chapel Hill where I worked on computational fluid dynamics as part of the [Miller Lab Group](https://sites.google.com/site/swimflypump/home), now at UA. I have broad interests in scientific computing and data analysis. Feel free to check out my [GitHub pages](https://dmsenter89.github.io/) site.
 
 
 
